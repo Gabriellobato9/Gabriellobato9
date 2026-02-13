@@ -1,4 +1,4 @@
-## Gabriel Lobato
+##ola, meu nome é Gabriel Lobato 
 curso: engenharia de computação
 interesses: programação,jogos,dados
 objetivo para esse semestre: aprender mais sobre computação
