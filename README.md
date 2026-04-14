@@ -1,9 +1,9 @@
 ## Olá, meu nome é Gabriel Lobato 
-curso: engenharia de computação
+curso: 👷engenharia de computação
 
-interesses: programação,jogos,dados
+interesses: 👨‍💻programação,jogos,dados
 
-objetivo para esse semestre: aprender mais sobre computação
+objetivo para esse semestre: 👨‍💻aprender mais sobre computação
 
 <!--
 **Gabriellobato9/Gabriellobato9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
